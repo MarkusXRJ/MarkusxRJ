@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">IT Tech from GB | Python | PS | Azure</h3>
+<h3 align="center">IT Tech from GB 💻</h3>
 
 
 <p align="left">
